@@ -11,6 +11,11 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem placeat dolorem magnam veritatis illo neque, animi soluta porro, sed consectetur cumque enim, harum optio nisi unde at assumenda! Harum, perspiciatis.
         Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique unde eos provident earum dolores, assumenda, aliquam quae maiores officia, ipsam rerum minima? Cupiditate optio rem officiis quisquam velit! Officia, cum?
     </p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+        <li>Tiga</li>
+    </ul>
     
 </body>
 </html>
